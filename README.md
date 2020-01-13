@@ -15,7 +15,7 @@ Let’s review what we learned:
 8. In ES6, template literals use backticks ``` and `${}` to interpolate values into a string.
 9. The `typeof` keyword returns the data type (as a string) of a value.
 
-**```
+```
 Instructions
 ```
 
