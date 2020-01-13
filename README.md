@@ -16,7 +16,7 @@ Let’s review what we learned:
 9. The `typeof` keyword returns the data type (as a string) of a value.
 
 ```
-**Instructions
+<b>Instructions</b>
 ```
 
 To learn more about variables take on these challenges!
