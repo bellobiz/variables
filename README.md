@@ -1,5 +1,5 @@
 [VARIABLES](https://drive.google.com/drive/folders/1bBT95ZTPACRT9YqtJIWHuPjjKv-kq7hw?usp=sharing)<br>
-[TechStack](https://techstack.surge.sh) and [Codecademy](http://ssqt.co/mQfpbL0)
+[TechStack](https://techstack.surge.sh) | [Codecademy](http://ssqt.co/mQfpbL0)
 
 ## Review
 
